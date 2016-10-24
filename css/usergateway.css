@@ -1,0 +1,108 @@
+div.msg{
+
+  margin-top: -500px;
+  margin-left: 300px;
+  font-family:"Trebuchet MS";
+  font-size: 18px;
+}
+div.cornermsg{
+	margin-top: -20px;
+	margin-left: 1150px;
+}
+div.links
+{
+  margin-top: 0px;
+  margin-left: 10px;
+}
+
+div.register{
+
+	padding:20px;
+  font-family:"Adobe Fan Heiti Std";
+  background-color:rgb(1,0,0);;
+  border: 1px solid #880;
+  color:white;
+  text-decoration:none;
+  height:20px;
+  width:120px;
+  font-size: 18px;
+}
+.buy{
+
+	padding:20px;
+  font-family:"Adobe Fan Heiti Std";
+  background-color:rgb(1,0,0);;
+  border: 1px solid #880;
+  color:black;
+  text-decoration:none;
+  height:20px;
+  width:120px;
+  font-size: 18px;
+	}
+.sell{
+	padding:20px;
+  font-family:"Adobe Fan Heiti Std";
+  background-color:rgb(1,0,0);;
+  border: 1px solid #880;
+  color:black;
+  text-decoration:none;
+  height:20px;
+  width:120px;
+  font-size: 18px;
+	}
+.addbk{
+
+	padding:20px;
+  font-family:"Adobe Fan Heiti Std";
+  background-color:rgb(1,0,0);;
+  border: 1px solid #880;
+  color:black;
+  text-decoration:none;
+  height:20px;
+  width:120px;
+  font-size: 18px;
+
+	}
+.lost{
+
+	padding:20px;
+  font-family:"Adobe Fan Heiti Std";
+  background-color:rgb(1,0,0);;
+  border: 1px solid #880;
+  color:black;
+  text-decoration:none;
+  height:20px;
+  width:120px;
+  font-size: 18px;
+
+	}
+.change{
+
+  padding:20px;
+  font-family:"Adobe Fan Heiti Std";
+  background-color:rgb(1,0,0);;
+  border: 1px solid #880;
+  color:black;
+  text-decoration:none;
+  height:20px;
+  width:120px;
+  font-size: 18px;
+
+  }
+
+.input[type=buy], .input[type=sell],.input[type=change]:hover {
+	position:relative; 
+	left:-6px;
+	height: 24px;
+	border:1px solid #adc5cf;
+	background: #e4f1f9; /* Old browsers */
+	background: -moz-linear-gradient(top, #e4f1f9 0%, #d5e7f3 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e4f1f9), color-stop(100%,#d5e7f3)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #e4f1f9 0%,#d5e7f3 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #e4f1f9 0%,#d5e7f3 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #e4f1f9 0%,#d5e7f3 100%); /* IE10+ */
+	background: linear-gradient(top, #e4f1f9 0%,#d5e7f3 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e4f1f9', endColorstr='#d5e7f3',GradientType=0 ); /* IE6-9 */
+	color:red;
+	cursor: pointer;
+}
